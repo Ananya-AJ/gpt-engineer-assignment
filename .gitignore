@@ -47,7 +47,6 @@ todo
 scratchpad
 
 # Ignore GPT Engineer files
-projects
 !projects/example
 
 # Pyenv
