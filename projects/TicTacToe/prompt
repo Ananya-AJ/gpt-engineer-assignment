@@ -1,0 +1,5 @@
+We are writing a simple tic tac toe game in javascript. Use npm modules to create the game.
+Have the game built in three different files:
+app.js which will be standard server logic
+client.js that will contain the game logic
+have the css styling in style.css file
